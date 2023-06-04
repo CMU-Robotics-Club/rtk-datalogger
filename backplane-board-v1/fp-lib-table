@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "sparkfun_parts")(type "KiCad")(uri "${KIPRJMOD}/parts/sparkfun_parts.pretty")(options "")(descr ""))
+  (lib (name "XIAO_PCB")(type "KiCad")(uri "${KIPRJMOD}/parts/XIAO_PCB.pretty")(options "")(descr ""))
+)

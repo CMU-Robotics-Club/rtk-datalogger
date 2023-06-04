@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "sparkfun_parts")(type "KiCad")(uri "${KIPRJMOD}/sparkfun_parts.kicad_sym")(options "")(descr ""))
+  (lib (name "MOUDLE-SEEEDUINO-XIAO")(type "KiCad")(uri "${KIPRJMOD}/MOUDLE-SEEEDUINO-XIAO.kicad_sym")(options "")(descr ""))
+)
