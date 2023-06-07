@@ -1,3 +1,4 @@
+data/
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,jupyternotebooks,python,visualstudiocode,vim,sublimetext
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,jupyternotebooks,python,visualstudiocode,vim,sublimetext
 
@@ -37,7 +38,8 @@ ipython_config.py
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
