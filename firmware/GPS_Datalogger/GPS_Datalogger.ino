@@ -112,7 +112,7 @@ void loop() {
 }
 
 void setup1() {
-  gps_uart.begin(115200);
+  gps_uart.begin(460800);
   rp2040.fifo.pop();
   rp2040.fifo.push(1);
 }
