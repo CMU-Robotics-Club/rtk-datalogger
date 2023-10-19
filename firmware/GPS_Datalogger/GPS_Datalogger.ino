@@ -1,4 +1,4 @@
-// GPS Datalogger Arduino Firmware v0.1
+// GPS Datalogger Arduino Firmware v0.2
 //  for RTK-GPS Datalogger, A.S. 2023
 //  (Seeed XIAO RP2040 + Sparkfun ZED-F9P breakout)
 // By Robert Mones
