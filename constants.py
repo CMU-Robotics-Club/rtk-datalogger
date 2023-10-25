@@ -19,7 +19,9 @@ CALC_CSV_HEADER = [
     "timestamp_str",
     "fix_type",
     "latitude",
+    "latitude_processed",
     "longitude",
+    "longitude_processed",
     "altitude", # meters
     "velocity", # 2d vector
     "speed", # scalar (abs val of vector)

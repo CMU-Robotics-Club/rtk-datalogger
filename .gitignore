@@ -1,4 +1,6 @@
-data/
+/data/position-csv/
+/data/postprocess/
+/data/ubx-files/
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,jupyternotebooks,python,visualstudiocode,vim,sublimetext
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,jupyternotebooks,python,visualstudiocode,vim,sublimetext
 
