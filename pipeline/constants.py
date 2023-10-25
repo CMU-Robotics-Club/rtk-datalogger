@@ -1,4 +1,4 @@
-PARSE_CSV_HEADER = ["timestamp",
+PARSE_CSV_HEADER = ["timestamp", # TODO change this to "timestamp_str"
                     "latitude",
                     "longitude",
                     "altitude",
@@ -15,15 +15,16 @@ PARSE_CSV_HEADER = ["timestamp",
 ]
 
 CALC_CSV_HEADER = [
-    "timestamp", # a datetime object (as a string)
+    "timestamp", # UTC time (float)
     "timestamp_str",
     "fix_type",
     "latitude",
     "longitude",
-    "ground_speed_raw", # m/s
-    "ground_speed_processed", # m/s, TODO: should be smoothed
-    "acceleration",
     "altitude", # meters
+    "velocity", # 2d vector
+    "speed", # scalar (abs val of vector)
+    "acceleration_vector",
+    "acceleration_magnitude",
     "horizontal_accuracy",
     "vertical_accuracy",
     "speed_accuracy"
